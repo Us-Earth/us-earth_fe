@@ -66,7 +66,6 @@ const CommunityProofForm = () => {
               const convertedBlobFile = new File([compressedFile], e.target.files[i].name, { type: e.target.files[i].type, lastModified: Date.now() });
               setFiles((files) => [...files, convertedBlobFile]);
             } catch (error) {
-              console.log(error);
             }
           } else {
             arry.push(`${i + 1}`);

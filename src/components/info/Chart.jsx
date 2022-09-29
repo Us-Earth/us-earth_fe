@@ -26,9 +26,7 @@ const Chart = ({ chartInfo }) => {
     }
   }, []);
   const { infoEnvironment } = useSelector((state) => state.info);
-  console.log(infoEnvironment);
   const stats = (chartInfo.amount / chartInfo.maxAmount) * 100;
-  console.log(stats);
   return (
     <>
       <ProgressWrap>
