@@ -1,14 +1,21 @@
 import React from "react";
 import styled from "styled-components";
 import banner01 from '../assets/banner_01.jpg';
+import banner02 from '../assets/banner_02.png';
+import banner03 from '../assets/banner_03.jpg';
 
 import PopularGroupItemList from './community/PopularGroupItemList';
 import NewGroupItemList from './community/NewGroupItemList';
 import CommunityItemList from './community/CommunityItemList';
 
 import icons from "../assets";
-import Modal from "./CommunityModal";
 import { useNavigate } from "react-router-dom"
+
+// Import Swiper React components
+import 'swiper/css';
+import "swiper/css/pagination";
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { Pagination, Autoplay } from 'swiper';
 
 const Community = () => {
   const { CommunityNewGroup } = icons;
@@ -17,7 +24,26 @@ const Community = () => {
     <>
       <CommunityWrap>
         <Container>
-          <Banner onClick={() => { navigate('/guide') }}><img src={banner01} alt='bannerImg' /></Banner>
+          <Banner>
+
+            <Swiper
+              autoplay={{
+                delay: 2000,
+                disableOnInteraction: false,
+                pauseOnMouseEnter: true,
+              }}
+              loop={true}
+              pagination={{
+                clickable: true,
+              }}
+              modules={[Autoplay, Pagination]}
+            >
+              <SwiperSlide><img src={banner01} alt='bannerImg1' onClick={() => { navigate('/guide') }} style={{ cursor: 'pointer' }} /></SwiperSlide>
+              <SwiperSlide><a href='https://docs.google.com/forms/d/e/1FAIpQLSfFvCdj94arTxy-8fXyjlzkDptoR-rt0WA7QeeGhQ6w46X55Q/viewform' target='blank'><img src={banner02} alt='bannerImg2' /></a></SwiperSlide>
+              {/* <SwiperSlide><img src={banner03} alt='bannerImg3' /></SwiperSlide> */}
+            </Swiper>
+
+          </Banner>
 
           <PopularGroup>
             <PopularGroupTop>
@@ -63,8 +89,10 @@ const Container = styled.div`
 
 const Banner = styled.div`
   width: 100%;
+  height:auto;
   img{
     width:100%;
+    height:auto;
   }
 `;
 
