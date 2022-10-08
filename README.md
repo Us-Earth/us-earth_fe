@@ -1,20 +1,19 @@
+# 🌍 UsEarth
 ![Us-Earth](https://user-images.githubusercontent.com/99243066/194052653-ff4166a6-cd22-468a-8edc-6fcadd992c0d.png)
 <br>
-## UsEarth
-  * Us-Earth는 매일 바뀌는 환경미션을 완수하고 캐릭터(나무)를 성장시키는 환경지킴 서비스입니다. 
-  * 커뮤니티를 통해 함께 환경 캠페인에 도전할 사람을 모으고, 환경 관련 소식도 받아볼 수 있습니다.
+<br/>
+🌳Us-Earth는 매일 바뀌는 환경미션을 완수하고 캐릭터(나무)를 성장시키는 환경지킴 서비스입니다.<br/>
+👨‍👩‍👧‍👦커뮤니티를 통해 함께 환경 캠페인에 도전할 사람을 모으고, 환경 관련 소식도 받아볼 수 있습니다.
+<br/>
+<br/>
+➡️ [Us-Earth 방문하기](https://usearth.co.kr)<br/>
+➡️ [프로젝트 발표 영상](https://www.youtube.com/watch?v=6h10HWaQW3w&feature=youtu.be)
+
 <br/>
 
-## 링크
-* [Us-Earth 사이트](https://usearth.co.kr)
-* [BE 깃허브 주소](https://github.com/Us-Earth/UsEarth.git)
-* [FE 깃허브 주소](https://github.com/Us-Earth/us-earth_fe.git)
-* [소개영상](https://www.youtube.com/watch?v=6h10HWaQW3w&feature=youtu.be)
-<br/>
-
-## 주요 서비스
+## 💻주요 서비스
 <details>
-<summary><b> 주요 서비스 펼쳐 보기 </b></summary>
+<summary><b>주요 서비스 펼쳐 보기</b></summary>
  
 - 간단하게 접근할 수 있는 서비스
     - 회원가입 없이 소셜로그인만을 통해 쉽고 빠르게 서비스 이용 가능합니다
@@ -50,13 +49,13 @@
  </details>
  <br/>
  
-## 트러블 슈팅
+## ⁉트러블 슈팅
   1. [달력 라이브러리 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EB%8B%AC%EB%A0%A5-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%9D%B4%EC%8A%88)
   2. [모바일 스크롤 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EC%8A%88)
   3. [이미지 업로드 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9D%B4%EC%8A%88)
 <br/>
 
-## Tools
+## 🛠Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff">
@@ -79,7 +78,7 @@
 </p>
 <br/>
 
-## 유저평가 및 피드백
+## 💬유저평가 및 피드백
  <details>
  <summary>피드백 상세보기</summary>
 
@@ -88,7 +87,7 @@
  </details>
 <br/>
 
-## 개선사항
+## 🛠개선사항
  <details>
  <summary>개선사항 상세보기</summary>
 
@@ -97,19 +96,19 @@
  </details>
 <br/>
 
-## 프로젝트 기간
+## 📆프로젝트 기간
  * 2022년 08월 26일 ~ 2022년 10월 06일
  * 배포일 : 2022년 09월 29일
 <br/>
 
-## 팀원
+## 👥팀원
 |이름|포지션|깃허브 Or 블로그|담당 역할|
 |:-----:|:---:|:---:|:---|
 |김원호(부팀장)|React / FE|[GitHub](https://github.com/loveyoujgb)|1. 소셜로그인 </br>2. 커뮤니티 리스트/상세보기/참여하기</br> 3. 소식지 페이지</br> 4. 내정보 오늘의미션/설정/그룹미션|
 |김미리|React / FE|[GitHub](https://github.com/woonhk90/us-earth_fe)|1. 커뮤니티, 인증글, 댓글 CRUD </br>2. 마이페이지 주간통계, 월간통계</br> 3. 정보제공 환경지수 차트</br> 4. 레이아웃|
 <br/>
 
-## Architecture
+## ⚙Architecture
 ![UsEarth아키텍처](https://user-images.githubusercontent.com/108817236/193409607-020133eb-0686-462b-8e87-ee643a1deb13.png)
 
 
