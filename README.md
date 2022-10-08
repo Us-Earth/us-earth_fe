@@ -126,8 +126,8 @@
 ## 👥팀원
 |이름|포지션|깃허브 Or 블로그|담당 역할|
 |:-----:|:---:|:---:|:---|
-|김원호(부팀장)|React / FE|[GitHub](https://github.com/loveyoujgb)|1. 소셜로그인 </br>2. 커뮤니티 리스트/상세보기/참여하기</br> 3. 소식지 페이지</br> 4. 내정보 오늘의미션/설정/그룹미션|
-|김미리|React / FE|[GitHub](https://github.com/woonhk90/us-earth_fe)|1. 커뮤니티, 인증글, 댓글 CRUD </br>2. 마이페이지 주간통계, 월간통계</br> 3. 정보제공 환경지수 차트</br> 4. 레이아웃|
+|김원호|React / FE|[GitHub](https://github.com/woonhk90)|1. 소셜로그인 </br>2. 커뮤니티 리스트/상세보기/참여하기</br> 3. 소식지 페이지</br> 4. 내정보 오늘의미션/설정/그룹미션|
+|김미리|React / FE|[GitHub](https://github.com/loveyoujgb)|1. 커뮤니티, 인증글, 댓글 CRUD </br>2. 마이페이지 주간통계, 월간통계</br> 3. 정보제공 환경지수 차트</br> 4. 레이아웃|
 <br/>
 
 ## ⚙Architecture
