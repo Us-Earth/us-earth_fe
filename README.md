@@ -77,6 +77,24 @@
   3. [이미지 업로드 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9D%B4%EC%8A%88)
 <br/>
 
+## 💬유저평가 및 피드백
+ <details>
+ <summary>피드백 상세보기</summary>
+
+ ![image](https://user-images.githubusercontent.com/108817236/194044368-fe1ec4f0-c8f5-4d38-aff2-1e4c7d3368d4.png)
+ ![image](https://user-images.githubusercontent.com/108817236/194044803-009e16a8-0514-409e-ab61-09f80e6f5c0a.png)
+ </details>
+<br/>
+
+## 🛠개선사항
+ <details>
+ <summary>개선사항 상세보기</summary>
+
+ ![image](https://user-images.githubusercontent.com/108817236/194042261-38bfe0c1-24c2-4d36-99f6-150f5d62d6c8.png)
+ ![image](https://user-images.githubusercontent.com/108817236/194042384-6fddfa37-2591-4de1-adb5-f0173270e4ee.png)
+ </details>
+<br/>
+
 ## 🛠Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff">
@@ -98,24 +116,6 @@
   <img src="https://img.shields.io/badge/Google Login-4285F4?style=for-the-badge&logo=Google&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Kakao Login-FFCD00?style=for-the-badge&logo=Kakao&logoColor=000000">
 </p>
-<br/>
-
-## 💬유저평가 및 피드백
- <details>
- <summary>피드백 상세보기</summary>
-
- ![image](https://user-images.githubusercontent.com/108817236/194044368-fe1ec4f0-c8f5-4d38-aff2-1e4c7d3368d4.png)
- ![image](https://user-images.githubusercontent.com/108817236/194044803-009e16a8-0514-409e-ab61-09f80e6f5c0a.png)
- </details>
-<br/>
-
-## 🛠개선사항
- <details>
- <summary>개선사항 상세보기</summary>
-
- ![image](https://user-images.githubusercontent.com/108817236/194042261-38bfe0c1-24c2-4d36-99f6-150f5d62d6c8.png)
- ![image](https://user-images.githubusercontent.com/108817236/194042384-6fddfa37-2591-4de1-adb5-f0173270e4ee.png)
- </details>
 <br/>
 
 ## 📆프로젝트 기간
