@@ -85,10 +85,8 @@ const ProofForm = ({ ProofFormData }) => {
             return (
               <Container key={index}>
                 <StButton onClick={() => deleteImageFile(image, index)}>
-                  {" "}
                   <CancelIcon />
                 </StButton>
-
                 <Thumb src={image.imgUrl} alt="img" />
               </Container>
             );
@@ -197,6 +195,7 @@ const StImageInput = styled.input`
 
 const ImageLength = styled.div`
   position: absolute;
+  cursor: pointer;
   color: white;
   letter-spacing: -0.03em;
   font-weight: 400;
@@ -287,9 +286,9 @@ const ErrorMessage = styled.div`
   bottom: -15px;
   left: 0;
   font-weight: 200;
-  font-size: 14px;
+  font-size: 11px;
   line-height: 19px;
   letter-spacing: -0.02em;
   color: #ff0000;
-  padding: 0 24px 18px 24px;
+  padding: 0 20px 18px 24px;
 `;
